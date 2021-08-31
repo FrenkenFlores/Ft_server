@@ -2,7 +2,7 @@
 FROM	debian:buster
 
 #owner
-MAINTAINER Franken Flores <fflores@student.21-school.ru
+MAINTAINER Franken Flores <fflores@student.21-school.ru>
 
 #open container ports 8080 and 443
 EXPOSE	8080 443
